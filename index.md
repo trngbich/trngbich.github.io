@@ -50,8 +50,9 @@ Year | Degree | University
 
 ## Contact
 
-[Twitter](https://x.com/trngbich) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) | [Github](https://github.com/trngbich)
+[Twitter](https://x.com/trngbich) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) | [Github](https://github.com/trngbich) 
 
+Email: b.tran(at)un-ihe.org
 
 > How you do anything is how you do everything
 
