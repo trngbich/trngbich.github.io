@@ -45,8 +45,38 @@ Year | Degree | University
 2016 - 2018 | MSc Water Resources Engineering  | KU Leuven & VU Brussels, Belgium
 2012 - 2015 | BSc Water - Environment - Oceanography | University of Science and Technology of Hanoi, Vietnam
 
+## Work Experience
 
----
+Year | Position | Place
+-----|-------|--------
+2021 - Now | PhD Candidate  | Land and Water Management Dept., IHE Delft, the Netherlands
+2019 - 2021 | Project Assistant (Research)  | Land and Water Management Dept., IHE Delft, the Netherlands
+2015 | Intern (Research)  | UMR CItés, TERritoires, Environnement et Sociétés, CNRS, France
+
+## Teaching & training
+- Tailor-made training "Rapid water accounting for improved water allocation" (2025)
+- MSc module/Shortcourse “Remote sensing for Agricultural water management”, "Water and Sustainable Development" program (2025)
+- MSc module “Water Resources Assessment using Remote Sensing”, "Water and Sustainable Development" program (2024)
+- MSc module "Remote Sensing for Water Resources Management", "Water Management and Governance" program (2020-2021)
+- Online course "Water accounting for water stewardship in Agriculture" (2021)
+- Tailor-made training "Water Productivity and Water Accounting" (2020)
+
+## Reviewer
+- Hydrology and Earth System Sciences
+- Physics and Chemistry of the Earth
+- Journal of Hydrometeorology
+- Hydrological Sciences Journal
+- Agricultural Water Management
+
+## Event organizer/assistant
+- 1st Water Accounting+ Symposium, Delft, the Netherlands (July 2022)
+- International SWAT Conference, Brussels, Belgium (September 2018)
+- 3rd Vietnam Summer School of Science, Hanoi, Vietnam (August 2015)
+
+# Awards & research funding
+- Constructive Advanced Thinking (CAT), Network of European Institutes for Advanced Study (2023 - 2026)
+- VLIR-UOS scholarship, issued by Flemish Interuniversity Council (VLIR)  (2016 - 2018)
+- Odon Vallet Scholarship for Excellent Students (2013)
 
 ## Contact
 
@@ -54,6 +84,6 @@ Year | Degree | University
 
 Email: b.tran(at)un-ihe.org
 
-> How you do anything is how you do everything
+> How you do anything is how you do everything.
 
 
