@@ -81,7 +81,7 @@ Year | Position | Place
 
 ## Contact
 
-[Twitter](https://x.com/trngbich) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) | [Github](https://github.com/trngbich) 
+[Bluesky](https://bsky.app/profile/trngbich.bsky.social) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) | [Github](https://github.com/trngbich) 
 
 Email: b.tran(at)un-ihe.org
 
