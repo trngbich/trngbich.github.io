@@ -17,11 +17,12 @@ I'm interested in the use of disruptive technologies and data diplomacy in addre
 
 ## Publications
 
-### Journal aricles
+### Journal articles
 
-1. **Tran, B.N.**, Van Der Kwast, J., Seyoum, S., Uijlenhoet, R., Jewitt, G. and Mul, M., 2023. Uncertainty assessment of satellite remote-sensing-based evapotranspiration estimates: a systematic review of methods and gaps. Hydrology and Earth System Sciences, 27(24), pp.4505-4528. [https://doi.org/10.5194/hess-27-4505-2023](https://doi.org/10.5194/hess-27-4505-2023)
-2. Alba, R., ter Horst, R., Tran, B.N., Klein, A., Unverzagt, K., Godinez-Madrigal, J., Verzijl, A., Rusca, M., Vos, J., Venot, J.-P., Zwarteveen, M., Krueger, T., 2025. Situating Hydrological Modeling: A Proposal for Engaging With the Power of Models. WIREs Water 12, e70030. [https://doi.org/10.1002/wat2.70030](https://doi.org/10.1002/wat2.70030)
-3. Yalew, S.G., van der Zaag, P., **Tran, B.N.**, Michailovsky, C.I.B., Salvadore, E., Borgomeo, E., Karimi, P., Pareeth, S., Seyoum, S.D. and Mul, M.L., 2023. Open-access remote sensing data for cooperation in transboundary water management. Water International, 48(8), pp.955-974. [https://doi.org/10.1080/02508060.2023.2263226
+1. **Tran, B. N.**, Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M.L., 2025. Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration in Africa and Southwest Asia. Hydrological Sciences Journal (accepted for publication, in press.). 
+2. **Tran, B.N.**, Van Der Kwast, J., Seyoum, S., Uijlenhoet, R., Jewitt, G. and Mul, M., 2023. Uncertainty assessment of satellite remote-sensing-based evapotranspiration estimates: a systematic review of methods and gaps. Hydrology and Earth System Sciences, 27(24), pp.4505-4528. [https://doi.org/10.5194/hess-27-4505-2023](https://doi.org/10.5194/hess-27-4505-2023)
+3. Alba, R., ter Horst, R., Tran, B.N., Klein, A., Unverzagt, K., Godinez-Madrigal, J., Verzijl, A., Rusca, M., Vos, J., Venot, J.-P., Zwarteveen, M., Krueger, T., 2025. Situating Hydrological Modeling: A Proposal for Engaging With the Power of Models. WIREs Water 12, e70030. [https://doi.org/10.1002/wat2.70030](https://doi.org/10.1002/wat2.70030)
+4. Yalew, S.G., van der Zaag, P., **Tran, B.N.**, Michailovsky, C.I.B., Salvadore, E., Borgomeo, E., Karimi, P., Pareeth, S., Seyoum, S.D. and Mul, M.L., 2023. Open-access remote sensing data for cooperation in transboundary water management. Water International, 48(8), pp.955-974. [https://doi.org/10.1080/02508060.2023.2263226
 ](https://doi.org/10.1080/02508060.2023.2263226)
 
 ### Conference proceedings
@@ -62,7 +63,7 @@ Year | Position | Place
 - Online course "Water accounting for water stewardship in Agriculture" (2021)
 - Tailor-made training "Water Productivity and Water Accounting" (2020)
 
-## Reviewer
+## Peer-review 
 - Hydrology and Earth System Sciences
 - Physics and Chemistry of the Earth
 - Journal of Hydrometeorology
