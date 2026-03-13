@@ -6,23 +6,24 @@ layout: default
 
 <img class="profile-picture" src="trngbich.jpg">
 
-Hi! I am a PhD candidate at Land and Water Management department, IHE Delft Instute for Water Education, the Netherlands. Having a background in Environmental Science, postgraduate study in Water Resources Engineering focusing on Earth Observation applications, and diverse volunteering experiences in environment and education projects, I'm dedicated to interdisciplinary research and applications towards a just and sustainable society.
-
+Hi! I am a researcher at Hydrology and Environmental Hydraulics group, Wageningen University, the Netherlands. My academic background and research experience span environmental sciences, water resources engineering and management, hydrological modelling, and remote sensing. My goal is to improve our collective understanding of the interactions between the hydrosphere and society (anthroposphere) through co-creating knowledge with researchers, practitioners, and communities, contributing to safeguarding water availability and food security, especially for communities most vulnerable to climatic extremes, biodiversity loss, and sociopolitical instability. 
 
 ## Research Interest
 
 Just Transition | Water Resources Engineering | Earth Observation | Open Science 
 
-I'm interested in the use of disruptive technologies and data diplomacy in addressing water issues and improving environment. Currently, I’m focusing on how global remotely sensed data product (evapotranspiration) is generated, validated, shared, interpreted, and (dis)trusted in the context of water resources management. 
+I'm interested in the use of disruptive technologies and data diplomacy in addressing water issues and improving environment. In my PhD research, I focused on how global remotely sensed data product (evapotranspiration) is generated, validated, shared, interpreted, and (dis)trusted in the context of water resources management. I'm also interested in interdisiplinary collaboration on using quantitative modelling as a tool to explicitly pursue justice and sustainability goals.
 
 ## Publications
 
 ### Journal articles
 
-1. **Tran, B. N.**, Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M.L., 2025. Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration in Africa and Southwest Asia. Hydrological Sciences Journal (accepted for publication, in press.). 
-2. **Tran, B.N.**, Van Der Kwast, J., Seyoum, S., Uijlenhoet, R., Jewitt, G. and Mul, M., 2023. Uncertainty assessment of satellite remote-sensing-based evapotranspiration estimates: a systematic review of methods and gaps. Hydrology and Earth System Sciences, 27(24), pp.4505-4528. [https://doi.org/10.5194/hess-27-4505-2023](https://doi.org/10.5194/hess-27-4505-2023)
-3. Alba, R., ter Horst, R., Tran, B.N., Klein, A., Unverzagt, K., Godinez-Madrigal, J., Verzijl, A., Rusca, M., Vos, J., Venot, J.-P., Zwarteveen, M., Krueger, T., 2025. Situating Hydrological Modeling: A Proposal for Engaging With the Power of Models. WIREs Water 12, e70030. [https://doi.org/10.1002/wat2.70030](https://doi.org/10.1002/wat2.70030)
-4. Yalew, S.G., van der Zaag, P., **Tran, B.N.**, Michailovsky, C.I.B., Salvadore, E., Borgomeo, E., Karimi, P., Pareeth, S., Seyoum, S.D. and Mul, M.L., 2023. Open-access remote sensing data for cooperation in transboundary water management. Water International, 48(8), pp.955-974. [https://doi.org/10.1080/02508060.2023.2263226
+1. **Tran, B. N.**, Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., Mul, M., 2026. Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration in Africa and Southwest Asia. Hydrological Sciences Journal. [https://doi.org/10.1080/02626667.2025.2600682](https://doi.org/10.1080/02626667.2025.2600682)
+2. Dehati, S., **Tran, B. N.**, Karimi, P., Mul, M., 2026. Comparison and validation of spatial reference evapotranspiration datasets over Africa. Hydrological Sciences Journal. [https://doi.org/10.1080/02626667.2025.2600684](https://doi.org/10.1080/02626667.2025.2600684)
+3. Castelli, G., Howard, B.C., Co-creating water knowledge Working Group, Buytaert, W., Ceperley, N., 2025. Co-creating water knowledge: a community perspective. Hydrological Sciences Journal, [https://doi.org/10.1080/02626667.2025.2571065](https://doi.org/10.1080/02626667.2025.2571065)
+4. **Tran, B.N.**, Van Der Kwast, J., Seyoum, S., Uijlenhoet, R., Jewitt, G. and Mul, M., 2023. Uncertainty assessment of satellite remote-sensing-based evapotranspiration estimates: a systematic review of methods and gaps. Hydrology and Earth System Sciences, 27(24), pp.4505-4528. [https://doi.org/10.5194/hess-27-4505-2023](https://doi.org/10.5194/hess-27-4505-2023)
+5. Alba, R., ter Horst, R., **Tran, B.N.**, Klein, A., Unverzagt, K., Godinez-Madrigal, J., Verzijl, A., Rusca, M., Vos, J., Venot, J.-P., Zwarteveen, M., Krueger, T., 2025. Situating Hydrological Modeling: A Proposal for Engaging With the Power of Models. WIREs Water 12, e70030. [https://doi.org/10.1002/wat2.70030](https://doi.org/10.1002/wat2.70030)
+6. Yalew, S.G., van der Zaag, P., **Tran, B.N.**, Michailovsky, C.I.B., Salvadore, E., Borgomeo, E., Karimi, P., Pareeth, S., Seyoum, S.D. and Mul, M.L., 2023. Open-access remote sensing data for cooperation in transboundary water management. Water International, 48(8), pp.955-974. [https://doi.org/10.1080/02508060.2023.2263226
 ](https://doi.org/10.1080/02508060.2023.2263226)
 
 ### Conference proceedings
@@ -43,7 +44,7 @@ I'm interested in the use of disruptive technologies and data diplomacy in addre
 
 Year | Degree | University
 -----|-------|--------
-2021 - Now | PhD Land and Water Management  | TU  Delft & IHE Delft, the Netherlands
+2021 - 2026 | PhD Land and Water Management  | TU  Delft & IHE Delft, the Netherlands
 2016 - 2018 | MSc Water Resources Engineering  | KU Leuven & VU Brussels, Belgium
 2012 - 2015 | BSc Water - Environment - Oceanography | University of Science and Technology of Hanoi, Vietnam
 
@@ -51,7 +52,8 @@ Year | Degree | University
 
 Year | Position | Place
 -----|-------|--------
-2021 - Now | PhD Candidate  | Land and Water Management Dept., IHE Delft, the Netherlands
+2026 - Now | Researcher  | Hydrology and Environmental Hydraulics Group, Department of Environmental Sciences, Wageningen University
+2021 - 2026 | PhD Candidate  | Land and Water Management Dept., IHE Delft, the Netherlands
 2019 - 2021 | Project Assistant (Research)  | Land and Water Management Dept., IHE Delft, the Netherlands
 2015 | Intern (Research)  | UMR CItés, TERritoires, Environnement et Sociétés, CNRS, France
 
@@ -84,8 +86,7 @@ Year | Position | Place
 
 [Bluesky](https://bsky.app/profile/trngbich.bsky.social) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) | [Github](https://github.com/trngbich) 
 
-Email: b.tran(at)un-ihe.org
+Email: bich.tran(at)wur.nl
 
-> How you do anything is how you do everything.
 
 
