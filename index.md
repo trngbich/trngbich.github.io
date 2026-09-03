@@ -73,6 +73,7 @@ Year | Position | Place
 - Agricultural Water Management
 
 ## Event organizer/assistant
+- Hydrology for All - Co-creating Equitable Water Solutions, Online & Casablanca, Morocco (November 2026)
 - 1st Water Accounting+ Symposium, Delft, the Netherlands (July 2022)
 - International SWAT Conference, Brussels, Belgium (September 2018)
 - 3rd Vietnam Summer School of Science, Hanoi, Vietnam (August 2015)
